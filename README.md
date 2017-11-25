@@ -29,3 +29,29 @@
 ### el contenido de la pagina Breather solo se encuentra informacion relacionada a los espacios que brindan.
 
 ![contextual](assets/img/contextual.png)
+
+# Elementos de navegacion de la pagina de Github
+
+## Global:
+
+### La pagina Github nos muestra en el header los sites que tenemos para  explorar en la pagina.
+
+![global-github](assets/img/global-github.png)
+
+## Lineal:
+
+### En los diferentes parrafos tenemos elementos de navegacion lineal(links).
+
+![lineal-github](assets/img/lineal-github.png)
+
+## Facetada:
+
+### en la parte del footer podemos observar que cada seccion tiene  varios filtros establecidos por la pagina para navegar.
+
+![facetada-github](assets/img/facetada-github.png)
+
+## contextual:
+
+### Tanto la informacion como las imagenes,los enlaces,todo estan relacionados al tema de la pagina principal.
+
+![contextual-github](assets/img/contextual-github.png)
