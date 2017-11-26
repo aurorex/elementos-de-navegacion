@@ -81,5 +81,4 @@
 ### en el nombre del autor del blog se encuentra un enlace que abre una ventana que contiene parrafos como enlace.
 
 ![inline-medium](assets/img/inline-medium.png)
-
 ![inline2-medium](assets/img/inline2-medium.png)
