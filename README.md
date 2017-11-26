@@ -12,11 +12,11 @@
 
 ![facetada](assets/img/facetada.png)
 
-## Lineal:
+## Inline:
 
 ### En el contenido del texto se encuentra enlaces que nos envian a otra pagina.
 
-![lineal](assets/img/lineal.png)
+![inline](assets/img/inline.png)
 
 ## Filtrada:
 
@@ -34,15 +34,15 @@
 
 ## Global:
 
-### La pagina Github nos muestra en el header los sites que tenemos para  explorar en la pagina.
+### La pagina Github nos muestra en el header los contenidos que tenemos para explorar en la pagina.
 
 ![global-github](assets/img/global-github.png)
 
-## Lineal:
+## Inline:
 
 ### En los diferentes parrafos tenemos elementos de navegacion lineal(links).
 
-![lineal-github](assets/img/lineal-github.png)
+![inline-github](assets/img/inline-github.png)
 
 ## Facetada:
 
@@ -50,8 +50,36 @@
 
 ![facetada-github](assets/img/facetada-github.png)
 
-## contextual:
+## Contextual:
 
 ### Tanto la informacion como las imagenes,los enlaces,todo estan relacionados al tema de la pagina principal.
 
 ![contextual-github](assets/img/contextual-github.png)
+
+# Elementos de navegacion la pagina Medium
+
+## Global:
+
+### La pagina  Medium dispone de contenidos en la parte del navegador,estos sites son el contenido  
+
+![global-medium](assets/img/global-medium.png)
+
+## Facetada:
+
+### Al querer buscar un tema relacionado con la tecnologia,surgen filtros establecidos por la pagina que tienen relacion con esa palabra
+
+![facetada-medium](assets/img/facetada-medium.png)
+
+## Local:
+
+### Si entramos a un blog o articulo,nos llevara de inmediato a esa pagina y es alli donde tendremos  opciones de navegacion dentro de esa pagina.
+
+![local-medium](assets/img/local-medium.png)
+
+## Inline:
+
+### en el nombre del autor del blog se encuentra un enlace que abre una ventana que contiene parrafos como enlace.
+
+![inline-medium](assets/img/inline-medium.png)
+
+![inline2-medium](assets/img/inline2-medium.png)
